@@ -34,7 +34,7 @@
     "@medusajs/medusa": "1.20.2",
     "@sanity/client": "^6.14.2",
     "@sanity/image-url": "^1.0.2",
-    "@shopify/admin-api-client": "^0.2.5",
+    "@shopify/admin-api-client": "^1.0.0",
     "@tanstack/react-query": "4.22.0",
     "@types/node-fetch": "^2.6.11",
     "body-parser": "^1.19.0",
